@@ -1,0 +1,12 @@
+.clock{
+    border: 100px;
+    padding: 0;
+    margin: 0;
+    justify-content: center;
+    color: aqua;
+    background-color: aqua;
+}
+
+.script{
+    background-color: aqua;
+}
